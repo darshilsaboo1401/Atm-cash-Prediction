@@ -1,0 +1,2634 @@
+{
+  "atms": [
+    {
+      "atm_id": "ATM001",
+      "zone": "Malviya Nagar",
+      "zone_type": "residential",
+      "lat": 26.86,
+      "lon": 75.81,
+      "capacity": 800000,
+      "min_threshold": 120000,
+      "bank_branch": "PNB"
+    },
+    {
+      "atm_id": "ATM002",
+      "zone": "Malviya Nagar",
+      "zone_type": "residential",
+      "lat": 26.85,
+      "lon": 75.8,
+      "capacity": 1200000,
+      "min_threshold": 180000,
+      "bank_branch": "ICICI"
+    },
+    {
+      "atm_id": "ATM003",
+      "zone": "Malviya Nagar",
+      "zone_type": "residential",
+      "lat": 26.86,
+      "lon": 75.81,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "ICICI"
+    },
+    {
+      "atm_id": "ATM004",
+      "zone": "C-Scheme",
+      "zone_type": "commercial",
+      "lat": 26.92,
+      "lon": 75.8,
+      "capacity": 1000000,
+      "min_threshold": 150000,
+      "bank_branch": "HDFC"
+    },
+    {
+      "atm_id": "ATM005",
+      "zone": "C-Scheme",
+      "zone_type": "commercial",
+      "lat": 26.9,
+      "lon": 75.78,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "HDFC"
+    },
+    {
+      "atm_id": "ATM006",
+      "zone": "Vaishali Nagar",
+      "zone_type": "residential",
+      "lat": 26.91,
+      "lon": 75.73,
+      "capacity": 1200000,
+      "min_threshold": 180000,
+      "bank_branch": "HDFC"
+    },
+    {
+      "atm_id": "ATM007",
+      "zone": "Vaishali Nagar",
+      "zone_type": "residential",
+      "lat": 26.9,
+      "lon": 75.75,
+      "capacity": 1200000,
+      "min_threshold": 180000,
+      "bank_branch": "ICICI"
+    },
+    {
+      "atm_id": "ATM008",
+      "zone": "Vaishali Nagar",
+      "zone_type": "residential",
+      "lat": 26.91,
+      "lon": 75.75,
+      "capacity": 800000,
+      "min_threshold": 120000,
+      "bank_branch": "ICICI"
+    },
+    {
+      "atm_id": "ATM009",
+      "zone": "Tonk Road",
+      "zone_type": "commercial",
+      "lat": 26.85,
+      "lon": 75.81,
+      "capacity": 1000000,
+      "min_threshold": 150000,
+      "bank_branch": "Axis"
+    },
+    {
+      "atm_id": "ATM010",
+      "zone": "Tonk Road",
+      "zone_type": "commercial",
+      "lat": 26.86,
+      "lon": 75.81,
+      "capacity": 1000000,
+      "min_threshold": 150000,
+      "bank_branch": "SBI"
+    },
+    {
+      "atm_id": "ATM011",
+      "zone": "Tonk Road",
+      "zone_type": "commercial",
+      "lat": 26.84,
+      "lon": 75.8,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "Axis"
+    },
+    {
+      "atm_id": "ATM012",
+      "zone": "Tonk Road",
+      "zone_type": "commercial",
+      "lat": 26.84,
+      "lon": 75.81,
+      "capacity": 1200000,
+      "min_threshold": 180000,
+      "bank_branch": "ICICI"
+    },
+    {
+      "atm_id": "ATM013",
+      "zone": "Mansarovar",
+      "zone_type": "residential",
+      "lat": 26.86,
+      "lon": 75.77,
+      "capacity": 1000000,
+      "min_threshold": 150000,
+      "bank_branch": "HDFC"
+    },
+    {
+      "atm_id": "ATM014",
+      "zone": "Mansarovar",
+      "zone_type": "residential",
+      "lat": 26.86,
+      "lon": 75.75,
+      "capacity": 1000000,
+      "min_threshold": 150000,
+      "bank_branch": "HDFC"
+    },
+    {
+      "atm_id": "ATM015",
+      "zone": "Mansarovar",
+      "zone_type": "residential",
+      "lat": 26.86,
+      "lon": 75.76,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "Axis"
+    },
+    {
+      "atm_id": "ATM016",
+      "zone": "Mansarovar",
+      "zone_type": "residential",
+      "lat": 26.85,
+      "lon": 75.76,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "PNB"
+    },
+    {
+      "atm_id": "ATM017",
+      "zone": "Raja Park",
+      "zone_type": "residential",
+      "lat": 26.91,
+      "lon": 75.83,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "Axis"
+    },
+    {
+      "atm_id": "ATM018",
+      "zone": "Raja Park",
+      "zone_type": "residential",
+      "lat": 26.91,
+      "lon": 75.82,
+      "capacity": 1200000,
+      "min_threshold": 180000,
+      "bank_branch": "PNB"
+    },
+    {
+      "atm_id": "ATM019",
+      "zone": "MI Road",
+      "zone_type": "commercial",
+      "lat": 26.93,
+      "lon": 75.83,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "ICICI"
+    },
+    {
+      "atm_id": "ATM020",
+      "zone": "MI Road",
+      "zone_type": "commercial",
+      "lat": 26.91,
+      "lon": 75.82,
+      "capacity": 1200000,
+      "min_threshold": 180000,
+      "bank_branch": "SBI"
+    },
+    {
+      "atm_id": "ATM021",
+      "zone": "Jagatpura",
+      "zone_type": "residential",
+      "lat": 26.82,
+      "lon": 75.84,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "SBI"
+    },
+    {
+      "atm_id": "ATM022",
+      "zone": "Jagatpura",
+      "zone_type": "residential",
+      "lat": 26.82,
+      "lon": 75.84,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "PNB"
+    },
+    {
+      "atm_id": "ATM023",
+      "zone": "Jagatpura",
+      "zone_type": "residential",
+      "lat": 26.82,
+      "lon": 75.84,
+      "capacity": 1200000,
+      "min_threshold": 180000,
+      "bank_branch": "ICICI"
+    },
+    {
+      "atm_id": "ATM024",
+      "zone": "Sitapura Industrial",
+      "zone_type": "industrial",
+      "lat": 26.76,
+      "lon": 75.83,
+      "capacity": 800000,
+      "min_threshold": 120000,
+      "bank_branch": "PNB"
+    },
+    {
+      "atm_id": "ATM025",
+      "zone": "Sitapura Industrial",
+      "zone_type": "industrial",
+      "lat": 26.77,
+      "lon": 75.84,
+      "capacity": 1200000,
+      "min_threshold": 180000,
+      "bank_branch": "ICICI"
+    },
+    {
+      "atm_id": "ATM026",
+      "zone": "Sitapura Industrial",
+      "zone_type": "industrial",
+      "lat": 26.77,
+      "lon": 75.83,
+      "capacity": 1000000,
+      "min_threshold": 150000,
+      "bank_branch": "Axis"
+    },
+    {
+      "atm_id": "ATM027",
+      "zone": "Airport Road",
+      "zone_type": "transit",
+      "lat": 26.81,
+      "lon": 75.82,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "PNB"
+    },
+    {
+      "atm_id": "ATM028",
+      "zone": "Airport Road",
+      "zone_type": "transit",
+      "lat": 26.82,
+      "lon": 75.82,
+      "capacity": 1200000,
+      "min_threshold": 180000,
+      "bank_branch": "PNB"
+    },
+    {
+      "atm_id": "ATM029",
+      "zone": "Amer Road",
+      "zone_type": "tourist",
+      "lat": 26.98,
+      "lon": 75.86,
+      "capacity": 1200000,
+      "min_threshold": 180000,
+      "bank_branch": "ICICI"
+    },
+    {
+      "atm_id": "ATM030",
+      "zone": "Amer Road",
+      "zone_type": "tourist",
+      "lat": 26.99,
+      "lon": 75.86,
+      "capacity": 1000000,
+      "min_threshold": 150000,
+      "bank_branch": "PNB"
+    },
+    {
+      "atm_id": "ATM031",
+      "zone": "Amer Road",
+      "zone_type": "tourist",
+      "lat": 26.98,
+      "lon": 75.84,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "Axis"
+    },
+    {
+      "atm_id": "ATM032",
+      "zone": "Bani Park",
+      "zone_type": "residential",
+      "lat": 26.93,
+      "lon": 75.81,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "HDFC"
+    },
+    {
+      "atm_id": "ATM033",
+      "zone": "Bani Park",
+      "zone_type": "residential",
+      "lat": 26.92,
+      "lon": 75.79,
+      "capacity": 1000000,
+      "min_threshold": 150000,
+      "bank_branch": "SBI"
+    },
+    {
+      "atm_id": "ATM034",
+      "zone": "Jhotwara",
+      "zone_type": "industrial",
+      "lat": 26.96,
+      "lon": 75.73,
+      "capacity": 800000,
+      "min_threshold": 120000,
+      "bank_branch": "SBI"
+    },
+    {
+      "atm_id": "ATM035",
+      "zone": "Jhotwara",
+      "zone_type": "industrial",
+      "lat": 26.95,
+      "lon": 75.74,
+      "capacity": 1200000,
+      "min_threshold": 180000,
+      "bank_branch": "SBI"
+    },
+    {
+      "atm_id": "ATM036",
+      "zone": "Vidhyadhar Nagar",
+      "zone_type": "residential",
+      "lat": 26.96,
+      "lon": 75.78,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "ICICI"
+    },
+    {
+      "atm_id": "ATM037",
+      "zone": "Vidhyadhar Nagar",
+      "zone_type": "residential",
+      "lat": 26.95,
+      "lon": 75.79,
+      "capacity": 800000,
+      "min_threshold": 120000,
+      "bank_branch": "Axis"
+    },
+    {
+      "atm_id": "ATM038",
+      "zone": "Vidhyadhar Nagar",
+      "zone_type": "residential",
+      "lat": 26.95,
+      "lon": 75.8,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "Axis"
+    },
+    {
+      "atm_id": "ATM039",
+      "zone": "Sanganer",
+      "zone_type": "commercial",
+      "lat": 26.82,
+      "lon": 75.79,
+      "capacity": 800000,
+      "min_threshold": 120000,
+      "bank_branch": "SBI"
+    },
+    {
+      "atm_id": "ATM040",
+      "zone": "Sanganer",
+      "zone_type": "commercial",
+      "lat": 26.81,
+      "lon": 75.81,
+      "capacity": 1500000,
+      "min_threshold": 225000,
+      "bank_branch": "PNB"
+    }
+  ],
+  "forecasts": {
+    "ATM001": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 209500.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 210000.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 300800.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 303000.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 296800.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 247600.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 215700.0
+      }
+    ],
+    "ATM002": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 261700.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 290400.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 420400.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 508800.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 365100.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 289200.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 273800.0
+      }
+    ],
+    "ATM003": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 235100.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 215700.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 390200.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 374400.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 344400.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 238700.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 255800.0
+      }
+    ],
+    "ATM004": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 465700.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 432200.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 587000.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 494900.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 758100.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 509500.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 510100.0
+      }
+    ],
+    "ATM005": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 456400.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 467400.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 577900.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 576500.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 761400.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 493000.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 545700.0
+      }
+    ],
+    "ATM006": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 207600.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 208000.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 299700.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 341700.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 306600.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 272400.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 204800.0
+      }
+    ],
+    "ATM007": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 240400.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 265000.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 455800.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 473700.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 358200.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 293000.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 275200.0
+      }
+    ],
+    "ATM008": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 199800.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 197800.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 297900.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 310500.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 265600.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 203200.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 200600.0
+      }
+    ],
+    "ATM009": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 652200.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 659100.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 702500.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 701400.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 891400.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 556300.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 597500.0
+      }
+    ],
+    "ATM010": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 432900.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 455900.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 467400.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 552100.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 624800.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 478400.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 440200.0
+      }
+    ],
+    "ATM011": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 445500.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 471500.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 553000.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 495700.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 580500.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 449300.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 473100.0
+      }
+    ],
+    "ATM012": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 518900.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 484400.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 603100.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 646000.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 835500.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 538400.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 564900.0
+      }
+    ],
+    "ATM013": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 177100.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 184200.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 306500.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 297700.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 250300.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 197600.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 191600.0
+      }
+    ],
+    "ATM014": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 210500.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 216200.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 354900.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 342200.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 314600.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 235500.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 240100.0
+      }
+    ],
+    "ATM015": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 199500.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 215200.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 339200.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 318800.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 306400.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 237400.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 216300.0
+      }
+    ],
+    "ATM016": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 216600.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 231100.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 379600.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 378200.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 324700.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 272900.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 219800.0
+      }
+    ],
+    "ATM017": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 311000.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 337400.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 497300.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 510500.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 454500.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 344800.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 305800.0
+      }
+    ],
+    "ATM018": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 229500.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 214300.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 370000.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 354300.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 312700.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 246600.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 241800.0
+      }
+    ],
+    "ATM019": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 531500.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 525400.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 655600.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 671200.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 832000.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 565000.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 548000.0
+      }
+    ],
+    "ATM020": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 515600.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 546500.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 704200.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 553800.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 819100.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 531600.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 536000.0
+      }
+    ],
+    "ATM021": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 235600.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 228200.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 386600.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 395900.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 345500.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 275500.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 245500.0
+      }
+    ],
+    "ATM022": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 248000.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 242500.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 438300.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 441000.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 371900.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 286000.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 266800.0
+      }
+    ],
+    "ATM023": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 217500.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 220300.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 359300.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 342200.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 326000.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 222100.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 239100.0
+      }
+    ],
+    "ATM024": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 321500.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 317200.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 305900.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 270800.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 415600.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 330300.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 298100.0
+      }
+    ],
+    "ATM025": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 351900.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 366600.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 370200.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 355700.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 432600.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 309800.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 346200.0
+      }
+    ],
+    "ATM026": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 357300.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 311300.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 303400.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 298400.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 440900.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 333100.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 312800.0
+      }
+    ],
+    "ATM027": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 329000.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 355100.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 570800.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 544800.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 548200.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 375700.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 376100.0
+      }
+    ],
+    "ATM028": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 241700.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 249400.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 447600.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 383200.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 416100.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 293300.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 263300.0
+      }
+    ],
+    "ATM029": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 236900.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 231400.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 434700.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 451500.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 331700.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 267900.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 249000.0
+      }
+    ],
+    "ATM030": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 241600.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 251900.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 495000.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 535000.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 386400.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 283600.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 272000.0
+      }
+    ],
+    "ATM031": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 327400.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 331600.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 553300.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 582300.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 441800.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 300300.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 297900.0
+      }
+    ],
+    "ATM032": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 202800.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 198100.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 307400.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 304700.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 273500.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 203400.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 205400.0
+      }
+    ],
+    "ATM033": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 246400.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 243700.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 419800.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 421300.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 356500.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 283100.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 264300.0
+      }
+    ],
+    "ATM034": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 362300.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 386100.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 365100.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 371500.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 503000.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 403500.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 371800.0
+      }
+    ],
+    "ATM035": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 430300.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 462000.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 432000.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 411900.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 631600.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 495600.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 457500.0
+      }
+    ],
+    "ATM036": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 216100.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 221000.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 300900.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 324400.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 302600.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 223100.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 217300.0
+      }
+    ],
+    "ATM037": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 212800.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 227700.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 365300.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 374200.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 321100.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 225100.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 219400.0
+      }
+    ],
+    "ATM038": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 216900.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 219700.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 306800.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 381400.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 330600.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 229200.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 217400.0
+      }
+    ],
+    "ATM039": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 549300.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 548200.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 734100.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 636200.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 866400.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 539000.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 549900.0
+      }
+    ],
+    "ATM040": [
+      {
+        "date": "2026-07-30",
+        "predicted_withdrawal": 336500.0
+      },
+      {
+        "date": "2026-07-31",
+        "predicted_withdrawal": 333300.0
+      },
+      {
+        "date": "2026-08-01",
+        "predicted_withdrawal": 375600.0
+      },
+      {
+        "date": "2026-08-02",
+        "predicted_withdrawal": 417100.0
+      },
+      {
+        "date": "2026-08-03",
+        "predicted_withdrawal": 476600.0
+      },
+      {
+        "date": "2026-08-04",
+        "predicted_withdrawal": 366800.0
+      },
+      {
+        "date": "2026-08-05",
+        "predicted_withdrawal": 347600.0
+      }
+    ]
+  },
+  "anomalies": [
+    {
+      "atm_id": "ATM008",
+      "date": "2026-07-06",
+      "withdrawal_amount": 1038497.22,
+      "anomaly_score": -0.28,
+      "zone": "Vaishali Nagar"
+    },
+    {
+      "atm_id": "ATM038",
+      "date": "2026-05-03",
+      "withdrawal_amount": 432500.0,
+      "anomaly_score": -0.24,
+      "zone": "Vidhyadhar Nagar"
+    },
+    {
+      "atm_id": "ATM003",
+      "date": "2026-07-17",
+      "withdrawal_amount": 26528.52,
+      "anomaly_score": -0.23,
+      "zone": "Malviya Nagar"
+    },
+    {
+      "atm_id": "ATM019",
+      "date": "2026-07-22",
+      "withdrawal_amount": 1254900.33,
+      "anomaly_score": -0.22,
+      "zone": "MI Road"
+    },
+    {
+      "atm_id": "ATM013",
+      "date": "2026-05-03",
+      "withdrawal_amount": 330100.0,
+      "anomaly_score": -0.21,
+      "zone": "Mansarovar"
+    },
+    {
+      "atm_id": "ATM021",
+      "date": "2026-05-03",
+      "withdrawal_amount": 484400.0,
+      "anomaly_score": -0.2,
+      "zone": "Jagatpura"
+    },
+    {
+      "atm_id": "ATM028",
+      "date": "2026-05-03",
+      "withdrawal_amount": 498400.0,
+      "anomaly_score": -0.2,
+      "zone": "Airport Road"
+    },
+    {
+      "atm_id": "ATM015",
+      "date": "2026-05-03",
+      "withdrawal_amount": 382300.0,
+      "anomaly_score": -0.19,
+      "zone": "Mansarovar"
+    },
+    {
+      "atm_id": "ATM026",
+      "date": "2026-06-01",
+      "withdrawal_amount": 561100.0,
+      "anomaly_score": -0.19,
+      "zone": "Sitapura Industrial"
+    },
+    {
+      "atm_id": "ATM020",
+      "date": "2026-07-25",
+      "withdrawal_amount": 857795.58,
+      "anomaly_score": -0.19,
+      "zone": "MI Road"
+    },
+    {
+      "atm_id": "ATM005",
+      "date": "2026-06-02",
+      "withdrawal_amount": 830600.0,
+      "anomaly_score": -0.19,
+      "zone": "C-Scheme"
+    },
+    {
+      "atm_id": "ATM029",
+      "date": "2026-05-16",
+      "withdrawal_amount": 490000.0,
+      "anomaly_score": -0.18,
+      "zone": "Amer Road"
+    },
+    {
+      "atm_id": "ATM032",
+      "date": "2026-05-03",
+      "withdrawal_amount": 364900.0,
+      "anomaly_score": -0.18,
+      "zone": "Bani Park"
+    },
+    {
+      "atm_id": "ATM036",
+      "date": "2026-05-02",
+      "withdrawal_amount": 390300.0,
+      "anomaly_score": -0.18,
+      "zone": "Vidhyadhar Nagar"
+    },
+    {
+      "atm_id": "ATM007",
+      "date": "2026-05-18",
+      "withdrawal_amount": 153500.0,
+      "anomaly_score": -0.18,
+      "zone": "Vaishali Nagar"
+    }
+  ],
+  "priority": [
+    {
+      "atm_id": "ATM001",
+      "zone": "Malviya Nagar",
+      "zone_type": "residential",
+      "lat": 26.86,
+      "lon": 75.81,
+      "capacity": 800000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 240100.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 800000
+    },
+    {
+      "atm_id": "ATM003",
+      "zone": "Malviya Nagar",
+      "zone_type": "residential",
+      "lat": 26.86,
+      "lon": 75.81,
+      "capacity": 1500000,
+      "current_cash": 132900,
+      "capacity_ratio": 0.09,
+      "days_to_empty": 0.5,
+      "avg_daily_forecast": 280300.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1367100
+    },
+    {
+      "atm_id": "ATM004",
+      "zone": "C-Scheme",
+      "zone_type": "commercial",
+      "lat": 26.92,
+      "lon": 75.8,
+      "capacity": 1000000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 495000.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1000000
+    },
+    {
+      "atm_id": "ATM005",
+      "zone": "C-Scheme",
+      "zone_type": "commercial",
+      "lat": 26.9,
+      "lon": 75.78,
+      "capacity": 1500000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 500600.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1500000
+    },
+    {
+      "atm_id": "ATM008",
+      "zone": "Vaishali Nagar",
+      "zone_type": "residential",
+      "lat": 26.91,
+      "lon": 75.75,
+      "capacity": 800000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 231800.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 800000
+    },
+    {
+      "atm_id": "ATM006",
+      "zone": "Vaishali Nagar",
+      "zone_type": "residential",
+      "lat": 26.91,
+      "lon": 75.73,
+      "capacity": 1200000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 238400.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1200000
+    },
+    {
+      "atm_id": "ATM012",
+      "zone": "Tonk Road",
+      "zone_type": "commercial",
+      "lat": 26.84,
+      "lon": 75.81,
+      "capacity": 1200000,
+      "current_cash": 71500,
+      "capacity_ratio": 0.06,
+      "days_to_empty": 0.1,
+      "avg_daily_forecast": 535500.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1128500
+    },
+    {
+      "atm_id": "ATM010",
+      "zone": "Tonk Road",
+      "zone_type": "commercial",
+      "lat": 26.86,
+      "lon": 75.81,
+      "capacity": 1000000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 452100.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1000000
+    },
+    {
+      "atm_id": "ATM023",
+      "zone": "Jagatpura",
+      "zone_type": "residential",
+      "lat": 26.82,
+      "lon": 75.84,
+      "capacity": 1200000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 265700.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1200000
+    },
+    {
+      "atm_id": "ATM030",
+      "zone": "Amer Road",
+      "zone_type": "tourist",
+      "lat": 26.99,
+      "lon": 75.86,
+      "capacity": 1000000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 329500.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1000000
+    },
+    {
+      "atm_id": "ATM015",
+      "zone": "Mansarovar",
+      "zone_type": "residential",
+      "lat": 26.86,
+      "lon": 75.76,
+      "capacity": 1500000,
+      "current_cash": 90200,
+      "capacity_ratio": 0.06,
+      "days_to_empty": 0.4,
+      "avg_daily_forecast": 251300.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1409800
+    },
+    {
+      "atm_id": "ATM014",
+      "zone": "Mansarovar",
+      "zone_type": "residential",
+      "lat": 26.86,
+      "lon": 75.75,
+      "capacity": 1000000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 260500.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1000000
+    },
+    {
+      "atm_id": "ATM016",
+      "zone": "Mansarovar",
+      "zone_type": "residential",
+      "lat": 26.85,
+      "lon": 75.76,
+      "capacity": 1500000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 275800.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1500000
+    },
+    {
+      "atm_id": "ATM020",
+      "zone": "MI Road",
+      "zone_type": "commercial",
+      "lat": 26.91,
+      "lon": 75.82,
+      "capacity": 1200000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 588800.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1200000
+    },
+    {
+      "atm_id": "ATM018",
+      "zone": "Raja Park",
+      "zone_type": "residential",
+      "lat": 26.91,
+      "lon": 75.82,
+      "capacity": 1200000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 271300.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1200000
+    },
+    {
+      "atm_id": "ATM017",
+      "zone": "Raja Park",
+      "zone_type": "residential",
+      "lat": 26.91,
+      "lon": 75.83,
+      "capacity": 1500000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 381900.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1500000
+    },
+    {
+      "atm_id": "ATM033",
+      "zone": "Bani Park",
+      "zone_type": "residential",
+      "lat": 26.92,
+      "lon": 75.79,
+      "capacity": 1000000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 303300.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1000000
+    },
+    {
+      "atm_id": "ATM025",
+      "zone": "Sitapura Industrial",
+      "zone_type": "industrial",
+      "lat": 26.77,
+      "lon": 75.84,
+      "capacity": 1200000,
+      "current_cash": 92600,
+      "capacity_ratio": 0.08,
+      "days_to_empty": 0.3,
+      "avg_daily_forecast": 362900.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1107400
+    },
+    {
+      "atm_id": "ATM035",
+      "zone": "Jhotwara",
+      "zone_type": "industrial",
+      "lat": 26.95,
+      "lon": 75.74,
+      "capacity": 1200000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 441400.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1200000
+    },
+    {
+      "atm_id": "ATM034",
+      "zone": "Jhotwara",
+      "zone_type": "industrial",
+      "lat": 26.96,
+      "lon": 75.73,
+      "capacity": 800000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 371200.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 800000
+    },
+    {
+      "atm_id": "ATM028",
+      "zone": "Airport Road",
+      "zone_type": "transit",
+      "lat": 26.82,
+      "lon": 75.82,
+      "capacity": 1200000,
+      "current_cash": 0,
+      "capacity_ratio": 0.0,
+      "days_to_empty": 0.0,
+      "avg_daily_forecast": 312900.0,
+      "risk_score": 100.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 1200000
+    },
+    {
+      "atm_id": "ATM009",
+      "zone": "Tonk Road",
+      "zone_type": "commercial",
+      "lat": 26.85,
+      "lon": 75.81,
+      "capacity": 1000000,
+      "current_cash": 307400,
+      "capacity_ratio": 0.31,
+      "days_to_empty": 0.5,
+      "avg_daily_forecast": 671300.0,
+      "risk_score": 74.3,
+      "needs_refill": true,
+      "recommended_fill_amount": 692600
+    },
+    {
+      "atm_id": "ATM039",
+      "zone": "Sanganer",
+      "zone_type": "commercial",
+      "lat": 26.82,
+      "lon": 75.79,
+      "capacity": 800000,
+      "current_cash": 294300,
+      "capacity_ratio": 0.37,
+      "days_to_empty": 0.5,
+      "avg_daily_forecast": 610500.0,
+      "risk_score": 73.8,
+      "needs_refill": true,
+      "recommended_fill_amount": 505700
+    },
+    {
+      "atm_id": "ATM029",
+      "zone": "Amer Road",
+      "zone_type": "tourist",
+      "lat": 26.98,
+      "lon": 75.86,
+      "capacity": 1200000,
+      "current_cash": 183100,
+      "capacity_ratio": 0.15,
+      "days_to_empty": 0.6,
+      "avg_daily_forecast": 301000.0,
+      "risk_score": 70.8,
+      "needs_refill": true,
+      "recommended_fill_amount": 1016900
+    },
+    {
+      "atm_id": "ATM007",
+      "zone": "Vaishali Nagar",
+      "zone_type": "residential",
+      "lat": 26.9,
+      "lon": 75.75,
+      "capacity": 1200000,
+      "current_cash": 295100,
+      "capacity_ratio": 0.25,
+      "days_to_empty": 0.9,
+      "avg_daily_forecast": 320400.0,
+      "risk_score": 63.5,
+      "needs_refill": true,
+      "recommended_fill_amount": 904900
+    },
+    {
+      "atm_id": "ATM002",
+      "zone": "Malviya Nagar",
+      "zone_type": "residential",
+      "lat": 26.85,
+      "lon": 75.8,
+      "capacity": 1200000,
+      "current_cash": 346700,
+      "capacity_ratio": 0.29,
+      "days_to_empty": 1.1,
+      "avg_daily_forecast": 324200.0,
+      "risk_score": 60.0,
+      "needs_refill": true,
+      "recommended_fill_amount": 853300
+    },
+    {
+      "atm_id": "ATM026",
+      "zone": "Sitapura Industrial",
+      "zone_type": "industrial",
+      "lat": 26.77,
+      "lon": 75.83,
+      "capacity": 1000000,
+      "current_cash": 357000,
+      "capacity_ratio": 0.36,
+      "days_to_empty": 1.1,
+      "avg_daily_forecast": 324000.0,
+      "risk_score": 59.3,
+      "needs_refill": true,
+      "recommended_fill_amount": 643000
+    },
+    {
+      "atm_id": "ATM011",
+      "zone": "Tonk Road",
+      "zone_type": "commercial",
+      "lat": 26.84,
+      "lon": 75.8,
+      "capacity": 1500000,
+      "current_cash": 578100,
+      "capacity_ratio": 0.39,
+      "days_to_empty": 1.2,
+      "avg_daily_forecast": 490000.0,
+      "risk_score": 57.5,
+      "needs_refill": true,
+      "recommended_fill_amount": 921900
+    },
+    {
+      "atm_id": "ATM027",
+      "zone": "Airport Road",
+      "zone_type": "transit",
+      "lat": 26.81,
+      "lon": 75.82,
+      "capacity": 1500000,
+      "current_cash": 599900,
+      "capacity_ratio": 0.4,
+      "days_to_empty": 1.4,
+      "avg_daily_forecast": 418300.0,
+      "risk_score": 51.5,
+      "needs_refill": false,
+      "recommended_fill_amount": 0
+    },
+    {
+      "atm_id": "ATM024",
+      "zone": "Sitapura Industrial",
+      "zone_type": "industrial",
+      "lat": 26.76,
+      "lon": 75.83,
+      "capacity": 800000,
+      "current_cash": 508900,
+      "capacity_ratio": 0.64,
+      "days_to_empty": 1.6,
+      "avg_daily_forecast": 314900.0,
+      "risk_score": 47.3,
+      "needs_refill": false,
+      "recommended_fill_amount": 0
+    },
+    {
+      "atm_id": "ATM031",
+      "zone": "Amer Road",
+      "zone_type": "tourist",
+      "lat": 26.98,
+      "lon": 75.84,
+      "capacity": 1500000,
+      "current_cash": 663200,
+      "capacity_ratio": 0.44,
+      "days_to_empty": 1.6,
+      "avg_daily_forecast": 404100.0,
+      "risk_score": 46.7,
+      "needs_refill": false,
+      "recommended_fill_amount": 0
+    },
+    {
+      "atm_id": "ATM019",
+      "zone": "MI Road",
+      "zone_type": "commercial",
+      "lat": 26.93,
+      "lon": 75.83,
+      "capacity": 1500000,
+      "current_cash": 968400,
+      "capacity_ratio": 0.65,
+      "days_to_empty": 1.7,
+      "avg_daily_forecast": 570800.0,
+      "risk_score": 45.4,
+      "needs_refill": false,
+      "recommended_fill_amount": 0
+    },
+    {
+      "atm_id": "ATM032",
+      "zone": "Bani Park",
+      "zone_type": "residential",
+      "lat": 26.93,
+      "lon": 75.81,
+      "capacity": 1500000,
+      "current_cash": 402800,
+      "capacity_ratio": 0.27,
+      "days_to_empty": 1.7,
+      "avg_daily_forecast": 236100.0,
+      "risk_score": 45.2,
+      "needs_refill": false,
+      "recommended_fill_amount": 0
+    },
+    {
+      "atm_id": "ATM037",
+      "zone": "Vidhyadhar Nagar",
+      "zone_type": "residential",
+      "lat": 26.95,
+      "lon": 75.79,
+      "capacity": 800000,
+      "current_cash": 599000,
+      "capacity_ratio": 0.75,
+      "days_to_empty": 2.2,
+      "avg_daily_forecast": 268600.0,
+      "risk_score": 33.0,
+      "needs_refill": false,
+      "recommended_fill_amount": 0
+    },
+    {
+      "atm_id": "ATM021",
+      "zone": "Jagatpura",
+      "zone_type": "residential",
+      "lat": 26.82,
+      "lon": 75.84,
+      "capacity": 1500000,
+      "current_cash": 704300,
+      "capacity_ratio": 0.47,
+      "days_to_empty": 2.5,
+      "avg_daily_forecast": 283500.0,
+      "risk_score": 27.0,
+      "needs_refill": false,
+      "recommended_fill_amount": 0
+    },
+    {
+      "atm_id": "ATM013",
+      "zone": "Mansarovar",
+      "zone_type": "residential",
+      "lat": 26.86,
+      "lon": 75.77,
+      "capacity": 1000000,
+      "current_cash": 807800,
+      "capacity_ratio": 0.81,
+      "days_to_empty": 3.6,
+      "avg_daily_forecast": 222600.0,
+      "risk_score": 15.0,
+      "needs_refill": false,
+      "recommended_fill_amount": 0
+    },
+    {
+      "atm_id": "ATM022",
+      "zone": "Jagatpura",
+      "zone_type": "residential",
+      "lat": 26.82,
+      "lon": 75.84,
+      "capacity": 1500000,
+      "current_cash": 1148000,
+      "capacity_ratio": 0.77,
+      "days_to_empty": 3.7,
+      "avg_daily_forecast": 309600.0,
+      "risk_score": 15.0,
+      "needs_refill": false,
+      "recommended_fill_amount": 0
+    },
+    {
+      "atm_id": "ATM036",
+      "zone": "Vidhyadhar Nagar",
+      "zone_type": "residential",
+      "lat": 26.96,
+      "lon": 75.78,
+      "capacity": 1500000,
+      "current_cash": 1243400,
+      "capacity_ratio": 0.83,
+      "days_to_empty": 5.1,
+      "avg_daily_forecast": 246000.0,
+      "risk_score": 15.0,
+      "needs_refill": false,
+      "recommended_fill_amount": 0
+    },
+    {
+      "atm_id": "ATM038",
+      "zone": "Vidhyadhar Nagar",
+      "zone_type": "residential",
+      "lat": 26.95,
+      "lon": 75.8,
+      "capacity": 1500000,
+      "current_cash": 1258900,
+      "capacity_ratio": 0.84,
+      "days_to_empty": 5.1,
+      "avg_daily_forecast": 247800.0,
+      "risk_score": 15.0,
+      "needs_refill": false,
+      "recommended_fill_amount": 0
+    },
+    {
+      "atm_id": "ATM040",
+      "zone": "Sanganer",
+      "zone_type": "commercial",
+      "lat": 26.81,
+      "lon": 75.81,
+      "capacity": 1500000,
+      "current_cash": 1174300,
+      "capacity_ratio": 0.78,
+      "days_to_empty": 3.4,
+      "avg_daily_forecast": 348500.0,
+      "risk_score": 15.0,
+      "needs_refill": false,
+      "recommended_fill_amount": 0
+    }
+  ],
+  "routes": {
+    "depot": {
+      "lat": 26.91,
+      "lon": 75.79,
+      "name": "Central Cash Vault (C-Scheme)"
+    },
+    "van_capacity": 5000000,
+    "total_vans_needed": 7,
+    "total_atms_to_refill": 28,
+    "total_cash_to_deploy": 29651100,
+    "total_distance_km": 247.3,
+    "vans": [
+      {
+        "van_id": "VAN-01",
+        "stops": [
+          {
+            "atm_id": "ATM005",
+            "zone": "C-Scheme",
+            "lat": 26.9,
+            "lon": 75.78,
+            "fill_amount": 1500000,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM003",
+            "zone": "Malviya Nagar",
+            "lat": 26.86,
+            "lon": 75.81,
+            "fill_amount": 1367100,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM001",
+            "zone": "Malviya Nagar",
+            "lat": 26.86,
+            "lon": 75.81,
+            "fill_amount": 800000,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM004",
+            "zone": "C-Scheme",
+            "lat": 26.92,
+            "lon": 75.8,
+            "fill_amount": 1000000,
+            "risk_score": 100.0
+          }
+        ],
+        "total_cash_loaded": 4667100,
+        "total_distance_km": 15.3,
+        "est_time_hours": 1.5,
+        "num_stops": 4
+      },
+      {
+        "van_id": "VAN-02",
+        "stops": [
+          {
+            "atm_id": "ATM008",
+            "zone": "Vaishali Nagar",
+            "lat": 26.91,
+            "lon": 75.75,
+            "fill_amount": 800000,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM034",
+            "zone": "Jhotwara",
+            "lat": 26.96,
+            "lon": 75.73,
+            "fill_amount": 800000,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM006",
+            "zone": "Vaishali Nagar",
+            "lat": 26.91,
+            "lon": 75.73,
+            "fill_amount": 1200000,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM012",
+            "zone": "Tonk Road",
+            "lat": 26.84,
+            "lon": 75.81,
+            "fill_amount": 1128500,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM010",
+            "zone": "Tonk Road",
+            "lat": 26.86,
+            "lon": 75.81,
+            "fill_amount": 1000000,
+            "risk_score": 100.0
+          }
+        ],
+        "total_cash_loaded": 4928500,
+        "total_distance_km": 33.9,
+        "est_time_hours": 2.5,
+        "num_stops": 5
+      },
+      {
+        "van_id": "VAN-03",
+        "stops": [
+          {
+            "atm_id": "ATM015",
+            "zone": "Mansarovar",
+            "lat": 26.86,
+            "lon": 75.76,
+            "fill_amount": 1409800,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM014",
+            "zone": "Mansarovar",
+            "lat": 26.86,
+            "lon": 75.75,
+            "fill_amount": 1000000,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM023",
+            "zone": "Jagatpura",
+            "lat": 26.82,
+            "lon": 75.84,
+            "fill_amount": 1200000,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM030",
+            "zone": "Amer Road",
+            "lat": 26.99,
+            "lon": 75.86,
+            "fill_amount": 1000000,
+            "risk_score": 100.0
+          }
+        ],
+        "total_cash_loaded": 4609800,
+        "total_distance_km": 47.9,
+        "est_time_hours": 2.7,
+        "num_stops": 4
+      },
+      {
+        "van_id": "VAN-04",
+        "stops": [
+          {
+            "atm_id": "ATM033",
+            "zone": "Bani Park",
+            "lat": 26.92,
+            "lon": 75.79,
+            "fill_amount": 1000000,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM020",
+            "zone": "MI Road",
+            "lat": 26.91,
+            "lon": 75.82,
+            "fill_amount": 1200000,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM018",
+            "zone": "Raja Park",
+            "lat": 26.91,
+            "lon": 75.82,
+            "fill_amount": 1200000,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM016",
+            "zone": "Mansarovar",
+            "lat": 26.85,
+            "lon": 75.76,
+            "fill_amount": 1500000,
+            "risk_score": 100.0
+          }
+        ],
+        "total_cash_loaded": 4900000,
+        "total_distance_km": 21.0,
+        "est_time_hours": 1.7,
+        "num_stops": 4
+      },
+      {
+        "van_id": "VAN-05",
+        "stops": [
+          {
+            "atm_id": "ATM017",
+            "zone": "Raja Park",
+            "lat": 26.91,
+            "lon": 75.83,
+            "fill_amount": 1500000,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM025",
+            "zone": "Sitapura Industrial",
+            "lat": 26.77,
+            "lon": 75.84,
+            "fill_amount": 1107400,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM009",
+            "zone": "Tonk Road",
+            "lat": 26.85,
+            "lon": 75.81,
+            "fill_amount": 692600,
+            "risk_score": 74.3
+          },
+          {
+            "atm_id": "ATM035",
+            "zone": "Jhotwara",
+            "lat": 26.95,
+            "lon": 75.74,
+            "fill_amount": 1200000,
+            "risk_score": 100.0
+          }
+        ],
+        "total_cash_loaded": 4500000,
+        "total_distance_km": 49.4,
+        "est_time_hours": 2.8,
+        "num_stops": 4
+      },
+      {
+        "van_id": "VAN-06",
+        "stops": [
+          {
+            "atm_id": "ATM007",
+            "zone": "Vaishali Nagar",
+            "lat": 26.9,
+            "lon": 75.75,
+            "fill_amount": 904900,
+            "risk_score": 63.5
+          },
+          {
+            "atm_id": "ATM002",
+            "zone": "Malviya Nagar",
+            "lat": 26.85,
+            "lon": 75.8,
+            "fill_amount": 853300,
+            "risk_score": 60.0
+          },
+          {
+            "atm_id": "ATM039",
+            "zone": "Sanganer",
+            "lat": 26.82,
+            "lon": 75.79,
+            "fill_amount": 505700,
+            "risk_score": 73.8
+          },
+          {
+            "atm_id": "ATM028",
+            "zone": "Airport Road",
+            "lat": 26.82,
+            "lon": 75.82,
+            "fill_amount": 1200000,
+            "risk_score": 100.0
+          },
+          {
+            "atm_id": "ATM029",
+            "zone": "Amer Road",
+            "lat": 26.98,
+            "lon": 75.86,
+            "fill_amount": 1016900,
+            "risk_score": 70.8
+          }
+        ],
+        "total_cash_loaded": 4480800,
+        "total_distance_km": 46.1,
+        "est_time_hours": 2.9,
+        "num_stops": 5
+      },
+      {
+        "van_id": "VAN-07",
+        "stops": [
+          {
+            "atm_id": "ATM011",
+            "zone": "Tonk Road",
+            "lat": 26.84,
+            "lon": 75.8,
+            "fill_amount": 921900,
+            "risk_score": 57.5
+          },
+          {
+            "atm_id": "ATM026",
+            "zone": "Sitapura Industrial",
+            "lat": 26.77,
+            "lon": 75.83,
+            "fill_amount": 643000,
+            "risk_score": 59.3
+          }
+        ],
+        "total_cash_loaded": 1564900,
+        "total_distance_km": 33.7,
+        "est_time_hours": 1.7,
+        "num_stops": 2
+      }
+    ]
+  },
+  "metrics": {
+    "mae": 37498.0,
+    "mape": 12.77,
+    "r2": 0.77,
+    "feature_importance": {
+      "is_salary_period": 0.25,
+      "zt_residential": 0.15,
+      "rolling_mean_7": 0.13,
+      "lag_7": 0.11,
+      "zt_commercial": 0.07,
+      "lag_1": 0.07,
+      "zt_industrial": 0.05,
+      "day_of_week": 0.04
+    },
+    "training_samples": 3320,
+    "n_atms": 40,
+    "anomalies_detected": 15
+  }
+}
